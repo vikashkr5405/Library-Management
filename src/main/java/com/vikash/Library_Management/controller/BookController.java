@@ -1,7 +1,7 @@
-package com.vikash.Library_Management.Controller;
+package com.vikash.Library_Management.controller;
 
-import com.vikash.Library_Management.Model.Book;
-import com.vikash.Library_Management.Repository.BookRepository;
+import com.vikash.Library_Management.entity.Book;
+import com.vikash.Library_Management.repository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

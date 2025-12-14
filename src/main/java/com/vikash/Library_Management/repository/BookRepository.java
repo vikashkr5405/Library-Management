@@ -1,6 +1,6 @@
-package com.vikash.Library_Management.Repository;
+package com.vikash.Library_Management.repository;
 
-import com.vikash.Library_Management.Model.Book;
+import com.vikash.Library_Management.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
